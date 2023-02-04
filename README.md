@@ -5,7 +5,8 @@ https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP%201(identifer%2Cconstan
 
 <br>
 EXP 2(given line is a comment or not).c<br>
-https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP%202(given%20line%20is%20a%20comment%20or%20not%20).c
+![Screenshot (50)](https://user-images.githubusercontent.com/113499774/216786944-06323cc4-6711-4c0e-a689-07f0de3291bf.png)
+
 2.![image](https://user-images.githubusercontent.com/113499774/216784838-75ba1d6f-8492-4017-8a2d-74b6b6a42fed.png)
 
 <br>
