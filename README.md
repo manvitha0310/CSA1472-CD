@@ -12,25 +12,37 @@ EXP 2(given line is a comment or not).c<br>
 <br>
 EXP 4(VALIDATE OPERATORS).c<br>
 https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP-4(VALIDATE%20OPERATORS).c
-4.![image](https://user-images.githubusercontent.com/113499774/216784938-bdf2cc72-2264-4c7f-8823-974547007f9f.png)
+4.![Screenshot (51)](https://user-images.githubusercontent.com/113499774/216787019-42a79172-ed46-4ba1-b8f6-b08efded4c45.png)
+
 
 <br>
 EXP 5(whitespaces and newline characters ).c<br>
 https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP5(whitespaces%20and%20newline%20characters%20).c
-5.![image](https://user-images.githubusercontent.com/113499774/216785404-04cb77e4-fe45-437b-8e52-09ce563d8ecd.png)
+5.![Screenshot (52)](https://user-images.githubusercontent.com/113499774/216787035-35330c5e-5981-49a0-b322-b941741060d5.png)
 
 <br>
 EXP 6(IDENTIFER IS VALID OR NOT).c<br>
 https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP6(IDENTIFIER%20IS%20VALID%20OR%20NOT).c
-6.![image](https://user-images.githubusercontent.com/113499774/216785581-024fd4cc-ca91-4f5e-a00d-625f5febe8eb.png)
+6.![Screenshot (53)](https://user-images.githubusercontent.com/113499774/216787066-1ec63f65-0863-4255-bf62-33fc5daccd3e.png)
 
 <br>
 EXP-7(first predicative parser).c<br>
 https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP7(FIRST-%20predictive%20parser).c
-![image](https://user-images.githubusercontent.com/113499774/216785640-deeb89cd-a641-426f-91d7-28c24626565c.png)
+7.![image](https://user-images.githubusercontent.com/113499774/216787105-764208ac-8d55-4fe0-b86d-d166edade462.png)
 
 <br>
-Exp-8
+
+
+8.![image](https://user-images.githubusercontent.com/113499774/216787124-ba081963-4c81-4d56-bef5-76d630733868.png)
+9.![image](https://user-images.githubusercontent.com/113499774/216787135-a90d609e-c4cb-425f-8109-f3ee68a2efba.png)
+10.![image](https://user-images.githubusercontent.com/113499774/216787149-9847a6f6-4450-4ef6-9cd0-75d2d7421df9.png)
+11.![image](https://user-images.githubusercontent.com/113499774/216787165-1df776e3-76b5-49e1-9e47-a3bdc3e9f901.png)
+13.![image](https://user-images.githubusercontent.com/113499774/216787177-860ea329-6324-4177-bd9d-eeb2e7849f47.png)
+14.![image](https://user-images.githubusercontent.com/113499774/216787195-9118b2f4-192c-44a4-81f6-f7bdf4607d79.png)
+17.![image](https://user-images.githubusercontent.com/113499774/216787217-23a1ca95-4717-4125-b112-26603a6f6504.png)
+18.![image](https://user-images.githubusercontent.com/113499774/216787228-401ba7a1-5a9b-409d-b296-7d8431198d6b.png)
+19.![image](https://user-images.githubusercontent.com/113499774/216787266-c96eea59-9c99-4d82-b66a-0bcb830a9184.png)
+
 
 
 
