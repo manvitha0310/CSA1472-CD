@@ -21,6 +21,12 @@ https://github.com/manvitha0310/CSA1472-CD/commit/8d53de7a17def249cf5104df8d09d8
 <br>
 
 EXP 6(IDENTIFER IS VALID OR NOT).c<br>
+https://github.com/manvitha0310/CSA1472-CD/commit/8c146bb17873b77094420515cd7ced4be5cffaf5<br>
+![Screenshot (53)](https://user-images.githubusercontent.com/113499774/216831427-b7528824-278a-4db8-a874-02e2c355f169.png)
+<br>
+
+EXP-7(first predicative parser).c<br>
+
 
 
 
