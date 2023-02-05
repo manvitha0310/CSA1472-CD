@@ -8,8 +8,14 @@ https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP%201(identifer%2Cconstan
 EXP 2(given line is a comment or not).c<br>
 https://github.com/manvitha0310/CSA1472-CD/commit/718bb2b693d8dfc9e9540e3529001bf70d445dce<br>
 ![Screenshot (50)](https://user-images.githubusercontent.com/113499774/216830895-2fbd3dc2-923f-424f-9516-e6fcb8122abd.png)
+<br>
 
 EXP 4(VALIDATE OPERATORS).c<br>
+https://github.com/manvitha0310/CSA1472-CD/commit/4368d9be7b5a732dce1a4c582c61e91f379f5dce<br>
+![Screenshot (51)](https://user-images.githubusercontent.com/113499774/216831092-01b85301-b81d-402f-b7e7-960745147fda.png)
+<br>
+
+EXP 5(whitespaces and newline characters ).c<br>
 
 
 
