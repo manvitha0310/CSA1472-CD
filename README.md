@@ -6,6 +6,11 @@ https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP%201(identifer%2Cconstan
 <br>
 
 EXP 2(given line is a comment or not).c<br>
+https://github.com/manvitha0310/CSA1472-CD/commit/718bb2b693d8dfc9e9540e3529001bf70d445dce<br>
+![Screenshot (50)](https://user-images.githubusercontent.com/113499774/216830895-2fbd3dc2-923f-424f-9516-e6fcb8122abd.png)
+
+EXP 4(VALIDATE OPERATORS).c<br>
+
 
 
 
