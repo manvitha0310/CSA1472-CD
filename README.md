@@ -81,10 +81,13 @@ https://github.com/manvitha0310/CSA1472-CD/commit/8e6207efaf5c4f62ef3062924036f6
 <br>
 
 Exp-24 <br>
-
+https://github.com/manvitha0310/CSA1472-CD/commit/689f8ab9395c6ccb19b6a58373482d73c80203ee<br>
 ![image](https://user-images.githubusercontent.com/113499774/216833766-91509042-186b-4343-b0d7-991aecf1dd29.png)
 <br>
 
+Exp-26 <br>
+
+![image](https://user-images.githubusercontent.com/113499774/216833847-3d68ba04-bae8-464b-86cd-9e7bbc363b66.png)
 
 
 
