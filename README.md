@@ -27,6 +27,7 @@ https://github.com/manvitha0310/CSA1472-CD/commit/8c146bb17873b77094420515cd7ced
 
 EXP-7(first predicative parser).c<br>
 https://github.com/manvitha0310/CSA1472-CD/commit/65ede06e3d45d3a81d6adad79249dab27aeb3de7<br>
+![image](https://user-images.githubusercontent.com/113499774/216833490-597823af-8d88-46ef-a0d7-369c4cc04db5.png)
 <br>
 
 Exp-8 <br>
@@ -46,7 +47,7 @@ https://github.com/manvitha0310/CSA1472-CD/commit/05f05a31bedf7f23d1f3eca9f6c177
 
 EXp-11 <br>
 https://github.com/manvitha0310/CSA1472-CD/commit/f9de1efeb6be9be24f599b33e2cb0ada8e0db6d9<br>
-![image](https://user-images.githubusercontent.com/113499774/216787135-a90d609e-c4cb-425f-8109-f3ee68a2efba.png)
+![image](https://user-images.githubusercontent.com/113499774/216833515-0edef53b-a49d-4af8-9dc8-e2ab07081c52.png)
 <br>
 
 Exp-13 <br>
@@ -60,19 +61,19 @@ https://github.com/manvitha0310/CSA1472-CD/commit/7fa3ad40a1a3291b8f0d0ce5845801
 <br>
 
 Exp-17 <br>
-
+https://github.com/manvitha0310/CSA1472-CD/commit/225889fd755cb02e76a6254cb8aa4388fca4892b<br>
 ![image](https://user-images.githubusercontent.com/113499774/216833398-662d13cd-2788-4953-b310-8461afdde8af.png)
 <br>
 
-13.![image](https://user-images.githubusercontent.com/113499774/216787177-860ea329-6324-4177-bd9d-eeb2e7849f47.png)
-14.![image](https://user-images.githubusercontent.com/113499774/216787195-9118b2f4-192c-44a4-81f6-f7bdf4607d79.png)
-17.![image](https://user-images.githubusercontent.com/113499774/216787217-23a1ca95-4717-4125-b112-26603a6f6504.png)
-18.![image](https://user-images.githubusercontent.com/113499774/216787228-401ba7a1-5a9b-409d-b296-7d8431198d6b.png)
-19.![image](https://user-images.githubusercontent.com/113499774/216787266-c96eea59-9c99-4d82-b66a-0bcb830a9184.png)
+Exp-18 <br>
 
+![image](https://user-images.githubusercontent.com/113499774/216833551-a07b0799-a3cb-4d32-9014-7b9adb1723fc.png)
+<br>
 
+Exp-19 <br>
 
-
+![image](https://user-images.githubusercontent.com/113499774/216833571-4c5e02a2-ef2c-4a93-a9b5-19c5f3204a24.png)
+<br>
 
 
 
