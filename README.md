@@ -66,12 +66,12 @@ https://github.com/manvitha0310/CSA1472-CD/commit/225889fd755cb02e76a6254cb8aa43
 <br>
 
 Exp-18 <br>
-https://github.com/manvitha0310/CSA1472-CD/commit/a0aa0c35761a2bf0ea7c2cb2b313ee8528197ccc
+https://github.com/manvitha0310/CSA1472-CD/commit/a0aa0c35761a2bf0ea7c2cb2b313ee8528197ccc<br>
 ![image](https://user-images.githubusercontent.com/113499774/216833551-a07b0799-a3cb-4d32-9014-7b9adb1723fc.png)
 <br>
 
 Exp-19 <br>
-https://github.com/manvitha0310/CSA1472-CD/commit/a7d2e74621b327e1bdf3d31ec8fc7adad16c6d44
+https://github.com/manvitha0310/CSA1472-CD/commit/a7d2e74621b327e1bdf3d31ec8fc7adad16c6d44<br>
 ![image](https://user-images.githubusercontent.com/113499774/216833571-4c5e02a2-ef2c-4a93-a9b5-19c5f3204a24.png)
 <br>
 
@@ -100,12 +100,12 @@ https://github.com/manvitha0310/CSA1472-CD/commit/d4a44f474f7d661546bf22fb5de6e7
 <br>
 
 Exp-29 <br>
-https://github.com/manvitha0310/CSA1472-CD/commit/8610197db16674320e1206a689d7f600cf29aaab
+https://github.com/manvitha0310/CSA1472-CD/commit/8610197db16674320e1206a689d7f600cf29aaab<br>
 ![Screenshot (48)](https://user-images.githubusercontent.com/113499774/216834192-27b02cda-2194-41f8-acec-38d6dfd6901c.png)
 <br>
 
 Exp-30 <br>
-https://github.com/manvitha0310/CSA1472-CD/commit/496197b96545603bd7403a02b6ae117012848f34
+https://github.com/manvitha0310/CSA1472-CD/commit/496197b96545603bd7403a02b6ae117012848f34<br>
 ![Screenshot (47)](https://user-images.githubusercontent.com/113499774/216834278-a69c8f73-0d93-4387-9b4a-fb5d1ebba4b5.png)
 <br>
 
@@ -130,6 +130,11 @@ https://github.com/manvitha0310/CSA1472-CD/commit/f8826ce816fe4810454bc9eed24722
 <br>
 
 Exp-35 <br>
-
+https://github.com/manvitha0310/CSA1472-CD/commit/36ca45c3ed8ec62aabca31f3e7c8cb6b9aa026f7<br>
 ![Screenshot (46)](https://user-images.githubusercontent.com/113499774/216835691-617f20cb-7dc3-466d-bd02-2ea14811566d.png)
+<br>
+
+Exp-36 <br>
+
+![Screenshot (45)](https://user-images.githubusercontent.com/113499774/216835771-5911865e-970a-4a0e-96f6-4b3a9c2531d2.png)
 <br>
