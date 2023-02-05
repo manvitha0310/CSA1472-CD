@@ -26,6 +26,10 @@ https://github.com/manvitha0310/CSA1472-CD/commit/8c146bb17873b77094420515cd7ced
 <br>
 
 EXP-7(first predicative parser).c<br>
+https://github.com/manvitha0310/CSA1472-CD/commit/65ede06e3d45d3a81d6adad79249dab27aeb3de7<br>
+<br>
+
+Exp-8 <br>
 
 
 
