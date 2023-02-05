@@ -30,13 +30,21 @@ https://github.com/manvitha0310/CSA1472-CD/commit/65ede06e3d45d3a81d6adad79249da
 <br>
 
 Exp-8 <br>
+https://github.com/manvitha0310/CSA1472-CD/commit/aeeb26e744beefad183b5623997f2e880922d593<br>
+![image](https://user-images.githubusercontent.com/113499774/216832519-4513cc5a-5bea-4a03-a338-c5760b40c91f.png)
+<br>
+
+Exp-9 <br>
+
+![image](https://user-images.githubusercontent.com/113499774/216832610-2b91f509-f236-4999-a37b-096ffe9d5849.png)
 
 
 
 
 
 
-8.![image](https://user-images.githubusercontent.com/113499774/216787124-ba081963-4c81-4d56-bef5-76d630733868.png)
+
+
 9.![image](https://user-images.githubusercontent.com/113499774/216787135-a90d609e-c4cb-425f-8109-f3ee68a2efba.png)
 10.![image](https://user-images.githubusercontent.com/113499774/216787149-9847a6f6-4450-4ef6-9cd0-75d2d7421df9.png)
 11.![image](https://user-images.githubusercontent.com/113499774/216787165-1df776e3-76b5-49e1-9e47-a3bdc3e9f901.png)
