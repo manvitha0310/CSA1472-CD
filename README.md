@@ -16,6 +16,11 @@ https://github.com/manvitha0310/CSA1472-CD/commit/4368d9be7b5a732dce1a4c582c61e9
 <br>
 
 EXP 5(whitespaces and newline characters ).c<br>
+https://github.com/manvitha0310/CSA1472-CD/commit/8d53de7a17def249cf5104df8d09d8db3d5740e2<br>
+![Screenshot (52)](https://user-images.githubusercontent.com/113499774/216831293-0fe0981f-5369-4211-b51c-a3a15ed178c4.png)
+<br>
+
+EXP 6(IDENTIFER IS VALID OR NOT).c<br>
 
 
 
