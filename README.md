@@ -150,6 +150,11 @@ https://github.com/manvitha0310/CSA1472-CD/commit/3bf345fce5788da58de17de1960795
 <br>
 
 Exp-39 <br>
-
+https://github.com/manvitha0310/CSA1472-CD/commit/4729066e3f356dd0dc89d69f5021fd48e08fd3dd<br>
 ![Screenshot (41)](https://user-images.githubusercontent.com/113499774/216835990-8f873a87-a4b3-46d5-9983-47f9e238fb95.png)
+<br>
+
+Exp-40 <br>
+
+![Screenshot (40)](https://user-images.githubusercontent.com/113499774/216836060-962432f2-50a5-4555-8930-95d2372b6ee7.png)
 <br>
