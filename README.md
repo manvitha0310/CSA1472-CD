@@ -4,33 +4,10 @@ https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP%201(identifer%2Cconstan
 1.![image](https://user-images.githubusercontent.com/113499774/216784727-db284353-8639-4a88-a852-58d7f8ef26f8.png)
 
 <br>
+
 EXP 2(given line is a comment or not).c<br>
-![Screenshot (50)](https://user-images.githubusercontent.com/113499774/216786944-06323cc4-6711-4c0e-a689-07f0de3291bf.png)
-
-2.![image](https://user-images.githubusercontent.com/113499774/216784838-75ba1d6f-8492-4017-8a2d-74b6b6a42fed.png)
-
-<br>
-EXP 4(VALIDATE OPERATORS).c<br>
-https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP-4(VALIDATE%20OPERATORS).c
-4.![Screenshot (51)](https://user-images.githubusercontent.com/113499774/216787019-42a79172-ed46-4ba1-b8f6-b08efded4c45.png)
 
 
-<br>
-EXP 5(whitespaces and newline characters ).c<br>
-https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP5(whitespaces%20and%20newline%20characters%20).c
-5.![Screenshot (52)](https://user-images.githubusercontent.com/113499774/216787035-35330c5e-5981-49a0-b322-b941741060d5.png)
-
-<br>
-EXP 6(IDENTIFER IS VALID OR NOT).c<br>
-https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP6(IDENTIFIER%20IS%20VALID%20OR%20NOT).c
-6.![Screenshot (53)](https://user-images.githubusercontent.com/113499774/216787066-1ec63f65-0863-4255-bf62-33fc5daccd3e.png)
-
-<br>
-EXP-7(first predicative parser).c<br>
-https://github.com/manvitha0310/CSA1472-CD/blob/main/EXP7(FIRST-%20predictive%20parser).c
-7.![image](https://user-images.githubusercontent.com/113499774/216787105-764208ac-8d55-4fe0-b86d-d166edade462.png)
-
-<br>
 
 
 8.![image](https://user-images.githubusercontent.com/113499774/216787124-ba081963-4c81-4d56-bef5-76d630733868.png)
